@@ -67,6 +67,7 @@ env/
 venv/ 
 ENV/ 
 env.bak/ 
+backend/venv/
 venv.bak/ 
 
 # mkdocs documentation 
